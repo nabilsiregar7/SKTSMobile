@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SKTSMobile</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Nama</string>
+    <string name="hint_nameL">NamaLengkap</string>
+    <string name="hint_kelamin">Jenis Kelamin</string>
+    <string name="hint_ttl">TTL</string>
+    <string name="hint_no">No.Ktp/KK</string>
+    <string name="hint_pekerjaan">Pekerjaan</string>
+    <string name="hint_kwn">Kewarganegaraan</string>
+    <string name="hint_agama">Agama</string>
+    <string name="hint_pnd">Pendidikan</string>
+    <string name="hint_alamat">Alamat</string>
+
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">DAFTAR</string>
+    <string name="btn_link_to_register">Belum Punya Akun? Daftar sekarang.</string>
+    <string name="btn_link_to_login">Sudah Punya Akun? Login disini.</string>
+
+    <string name="title_activity_navigation">North Moluccas Tourism</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Tips</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">SKTS</string>
+    <string name="slide_1_desc">Surat Keterangan Tingal Sementara berguna untuk membantu masyarakat yang statusnya sebagai perantau dalam memperoleh isin tinggal sementara di Kota Depok</string>
+
+    <string name="slide_2_title">SP</string>
+    <string name="slide_2_desc">Surat Pindah. Membantu masyarakat Depok dalam mengurus surat perpindahan penduduk</string>
+
+    <string name="slide_4_title">Great Discounts</string>
+    <string name="slide_4_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_3_title">Profil</string>
+    <string name="slide_3_desc">Untuk menggunakan aplikasi ini, anda harus melengkapi data diri anda terlebih dahulu</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
